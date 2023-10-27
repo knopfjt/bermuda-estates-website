@@ -1,11 +1,12 @@
 --- 
 title: "Telling the Story of Bermuda Estates"
+# subtitle: subtitle
 author: "project:HOMES and MHCCV"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-# url: your book url like https://bookdown.org/yihui/bookdown
-# cover-image: path to the social sharing image like images/cover.jpg
+# url: https://www.url.com
+# cover-image: img/cover.png
 description: "This site tells the story of project:HOMES purchasing and operating Bermuda Estates, a mobile home park in Chesterfield County."
 biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
